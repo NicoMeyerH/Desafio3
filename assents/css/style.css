@@ -1,0 +1,114 @@
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    max-width: 100vw;
+}
+
+.header {
+    align-items: center;
+    background-color: black;
+    flex-direction: column;
+}
+
+.container-banner {
+    display: block;
+    min-height: 40vh;
+}
+
+.container-banner img {
+    width: 100%;
+    height: 100%;
+}
+
+.info-iguanas {
+    display: block;
+    width: 100%;
+    min-height: 30vh;
+    position: relative;
+    text-align: center;
+}
+
+.parrafos {
+    display: inline-block;
+    width: 35%;
+    height: auto;
+    text-align: left;
+    vertical-align: top;
+}
+
+.titulo1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.titulo2 {
+    text-align: center;
+    font-size: 70px;
+    padding-block: 100px;
+}
+
+.iguanas {
+    text-align: center;
+    font-size: 80px;
+}
+
+.imgheader {
+    width: 100%;
+}
+
+.parrafos {
+    width: 44%;
+    display: inline-block;
+    padding-right: 20px;
+    text-align: left;
+    padding-top: 10%;
+
+}
+
+.parrafos p {
+    font-size: 2.5em;
+    vertical-align: middle;
+}
+
+.iguana1 {
+    width: 44%;
+    display: inline-block;
+    margin: 3% 3%;
+}
+
+.iguana1 img {
+    width: 100%;
+    height: 100%;
+}
+
+.iguana2 {
+    display: inline-block;
+    margin: 0.2%;
+}
+
+.iconos {
+    background-color: #1E1A13;
+    display: block;
+}
+
+.colum {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    font-size: 60px;
+}
+
+.imagenes {
+    display: inline-block;
+    width: 100%;
+}
+
+
+.piepagina {
+    text-align: center;
+    background-color: #1E1A13;
+    font-size: 30px;
+    padding: 50px 30px 40px 10px;
+}
